@@ -19,6 +19,8 @@
         <findbugs.version>3.0.5</findbugs.version>
         <pmd.version>3.8</pmd.version>
         <checkstyle.version>2.17</checkstyle.version>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
